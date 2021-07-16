@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ \r\n
+comment1.params=x\ y\ id\ h
+comment1.target=Enemy(float,\ float,\ int,\ int)
+comment2.params=Min\ Max
+comment2.target=int\ random_int(int,\ int)
+comment3.params=object
+comment3.target=void\ tick(java.util.ArrayList)
+comment4.params=g
+comment4.target=void\ render(java.awt.Graphics)
+comment5.params=
+comment5.target=void\ bounce()
+comment6.params=
+comment6.target=float\ getCenteredX()
+comment7.params=
+comment7.target=float\ getCenteredY()
+comment8.params=
+comment8.target=int\ getHp()
+comment9.params=dmg
+comment9.target=void\ damage(int)
+numComments=10
